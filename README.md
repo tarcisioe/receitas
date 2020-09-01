@@ -16,6 +16,7 @@ Salgados
 - [Costela ao molho barbecue](costela_ao_molho_barbecue.md)
 - [Caponata](costela_ao_molho_barbecue.md)
 - [Macaroni and cheese](macaroni_and_cheese.md)
+- [Frango na cerveja](frango_na_cerveja.md)
 
 Molhos
 ------
