@@ -22,5 +22,4 @@ Modo de preparo
   alho fresco.
 - Misture bem enquanto aquece, até que fique bem homogêneo, e continue mexendo até que
   comece a engrossar.
-- Deixe que o molho esfrie um pouco para obter a consistência final antes de colocá-lo
-  na costela.
+- Deixe que o molho esfrie um pouco para obter a consistência final antes de usar.
