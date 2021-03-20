@@ -9,6 +9,7 @@ Doces
 - [Brownie](brownie.md)
 - [Cookies](cookies.md)
 - [Torta de limão](torta_de_limao.md)
+- [Bolo de fubá cremoso](bolo_de_fuba.md)
 
 Salgados
 --------
