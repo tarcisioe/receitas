@@ -4,32 +4,32 @@ Ingredientes
 Biscoitos
 ---------
 
-- 116g de farinha refinada
-- 211g de farinha integral
-- 60g de açúcar mascavo
-- 2g de sal
-- 4g de fermento em pó
-- 4g de canela em pó
+- 116 g de farinha refinada
+- 211 g de farinha integral
+- 60 g de açúcar mascavo
+- 2 g de sal
+- 4 g de fermento em pó
+- 4 g de canela em pó
 - 1 ovo
-- 50ml de leite integral
-- 80g de mel
-- 42g de óleo
+- 50 ml de leite integral
+- 80 g de mel
+- 42 g de óleo
 
 Massa
 -----
 
 - Os biscoitos, bem moídos
-- 70g de açúcar mascavo
-- 3g de sal
-- 168g de manteiga
+- 70 g de açúcar mascavo
+- 3 g de sal
+- 168 g de manteiga
 
 Mousse
 ------
 
 - 4 gemas de ovo
-- 400g de leite condensado
-- 120ml de suco de limão
-- 4g de raspas de limão, picadas finas
+- 400 g de leite condensado
+- 120 ml de suco de limão
+- 4 g de raspas de limão, picadas finas
 
 Modo de preparo
 ===============
@@ -40,8 +40,8 @@ Biscoitos
 - Misture bem todos os ingredientes em pó em uma vasilha.
 - Em outra vasilha, bata o ovo até estar homogêneo e acrescente devagar o
   leite, o mel e o óleo.
-- Misture os líquidos aos ingredientes em pó e mexa bem com uma espátula ou
-  as mãos até obter uma massa firme e homogênea.
+- Misture os líquidos aos ingredientes em pó e mexa bem com uma espátula ou as
+  mãos até obter uma massa firme e homogênea.
 - Reserve em um saquinho a massa por 30 minutos na geladeira.
 - Abra a massa sobre uma superfície limpa até uma altura de 3mm.
 - Corte a massa em pedaços para colocar em uma assadeira grande e leve ao forno
@@ -57,15 +57,17 @@ Massa
 - Misture os farelos de biscoito com o açúcar mascavo e o sal.
 - Coloque a manteiga derretida na massa e mexa com delicadeza para que ela
   fique homogeneamente com uma textura de areia molhada.
-- Forre uma assadeira de cerca de 20cm de diâmetro com a massa, bem
-  prensada, na parte de baixo e as laterais. Um copo ou um pote de cerâmica podem
-  ser de grande ajuda para prensar a massa.
-- Leve ao forno a 180°C por 10 minutos para firmar e deixe esfriar completamente.
+- Forre uma assadeira de cerca de 20cm de diâmetro com a massa, bem prensada,
+  na parte de baixo e as laterais. Um copo ou um pote de cerâmica podem ser de
+  grande ajuda para prensar a massa.
+- Leve ao forno a 180°C por 10 minutos para firmar e deixe esfriar
+  completamente.
 
 Mousse
 ------
 
-- Bata as quatro gemas com as raspas de limão para que se dispersem homogeneamente.
+- Bata as quatro gemas com as raspas de limão para que se dispersem
+  homogeneamente.
 - Adicione o leite condensado e bata bem.
 - Adicione o suco de limão devagar e bata bem.
 - Cubra com um filme plástico e reserve enquanto termina a massa.
